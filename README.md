@@ -1,5 +1,8 @@
 # HR-Dashboard-MySQL-PowerBi
 
+![HR Distribution Dashboard_page-0001](https://github.com/user-attachments/assets/8e82fb92-a3a7-4613-8bba-de7bcdb1916f)
+
+
 ## Project Overview
 
 Data - HR Data with over 22000 rows from the year 2000 to 2020.
